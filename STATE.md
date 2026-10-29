@@ -16,13 +16,19 @@
 
 - Модуль: 1
 - Неделя: 1
-- Занятие №: 0
+- Занятие №: 2
 - Гейт: не пройден
 
 # ПОВТОРЯЮЩИЕСЯ ОШИБКИ
 
-(пусто — агент добавляет сюда паттерны, которые встретились 2+ раза)
+- Артикли перед исчисляемыми существительными в единственном числе в IT (`a critical bug`, `a new lesson`).
+- *(Отработано и исправлено в дриллах: `didn't + V1`, `I am trying to [V]`).*
 
 # ОСВОЕННЫЕ ФРЕЙМЫ
 
-(пусто — агент добавляет номера Template после успешного применения)
+- Template 01 (`I have already [V3]..., but I haven't [V3]... yet`)
+- Template 02 (`We [V2] ... [Time marker], so now [Current Status]`)
+- Template 03 (`Have you had a chance to [Infinitive] ... yet?`)
+- Template 04 (`I haven't been able to [Infinitive] because [Reason / Blocked by]`)
+- Template 05 (`We noticed that [Subject] [V2] when we [V2]`)
+- Template 06 (`Have you ever encountered [Noun / Error / Issue] before?`)
