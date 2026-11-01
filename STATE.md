@@ -16,14 +16,16 @@
 
 - Модуль: 1
 - Неделя: 1
-- Занятие №: 3
+- Занятие №: 4
 - Гейт: не пройден
 
 # ПОВТОРЯЮЩИЕСЯ ОШИБКИ
 
-- Герундий после глагола finish (`finish + V-ing`: `finished writing`).
-- Артикли и определители перед исчисляемыми существительными (`my reservation`, `the room reservation`).
-- *(Отработано и исправлено в дриллах: `didn't + V1`, `I am trying to [V]`, `a small error`).*
+- Герундий после finish без частицы `to` (`finished writing`, не `to writing`).
+- Предлог прибытия: `arrive at the [place]` (не `arrive to`).
+- Описание сбоев: `the database went down` / `queries failed` (`down` требует глагола `went down` или `was down`).
+- Артикли перед отделами и объектами (`the finance department`, `the hotel`).
+- *(Успешно отработано: `didn't + V1`, `I am trying to [V]`, `a room / my reservation`).*
 
 # ОСВОЕННЫЕ ФРЕЙМЫ
 

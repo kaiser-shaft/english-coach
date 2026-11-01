@@ -48,3 +48,19 @@
   - IT-контекст: глагол `push` требует прямого дополнения (`push it / push code to GitHub`).
   - Артикли и определители перед существительными: `check my reservation` / `the room reservation`.
   - Успехи: идеальное применение артиклей в теп-апе (`a small error`), абсолютная точность в Past Simple Sequence и Present Perfect в связке Templates 05 + 06 с первой попытки без единой помарки.
+
+
+## Занятие №4 (2026-11-01)
+
+- **Модуль / Неделя:** Модуль 1, Неделя 1
+- **Тема:** Закрепление блокеров (Template 04), статусов (Template 02) и баг-репортов (Template 05)
+- **Отработанные фреймы:**
+  - `Warm-up`: *I finished writing documentation one hour ago.* / *Hello! I booked a room yesterday. Could you check my reservation?*
+  - `Template 04 (IT)`: *I haven't been able to write code, because the finance department hasn't given me the task yet.*
+  - `Template 02 (Travel)`: *We arrived at the hotel 30 minutes ago, so now we are relaxing.*
+  - `Template 05 (IT)`: *We noticed that the database went down when we started a migration.*
+- **Разбор и фокусные точки:**
+  - `finish + V-ing`: автоматизация формы без `to` (`finished writing`).
+  - Предлоги места: `arrive at the hotel` (с конкретными локациями/зданиями используется `at`, не `to`).
+  - Сказуемое при сбоях: `down` — прилагательное/состояние, поэтому нужен глагол (`went down`, `was down`) или конкретный глагол (`the query failed`).
+  - Прогресс: чистый travel-запрос с артиклями с первой попытки, быстрая и беглая реакция на построение сложных конструкций.
