@@ -64,3 +64,19 @@
   - Предлоги места: `arrive at the hotel` (с конкретными локациями/зданиями используется `at`, не `to`).
   - Сказуемое при сбоях: `down` — прилагательное/состояние, поэтому нужен глагол (`went down`, `was down`) или конкретный глагол (`the query failed`).
   - Прогресс: чистый travel-запрос с артиклями с первой попытки, быстрая и беглая реакция на построение сложных конструкций.
+
+
+## Занятие №5 (2026-11-02)
+
+- **Модуль / Неделя:** Модуль 1, Неделя 1
+- **Тема:** Закрепление связок Past Simple vs Present Perfect (подготовка к поездке, вежливые пинги в IT, причинно-следственные статусы)
+- **Отработанные фреймы:**
+  - `Warm-up`: *I arrived at 11 o clock.* / *I finished writing tests 30 minutes ago.* / *The payment service was down 10 minutes ago.*
+  - `Template 01 (Travel)`: *I have already exchanged money, but I haven't bought the tickets yet.*
+  - `Template 03 (IT)`: *Have you had a chance to test the method yet?*
+  - `Template 02 (IT)`: *We updated the service three hours ago, so now we are playing GTA 6.*
+- **Разбор и фокусные точки:**
+  - Прогресс: 100% точность в Warm-up (`arrived at`, `finished writing` без `to`, `was down`).
+  - Парная конструкция Present Perfect: сохранение маркера `yet` на конце отрицания (`haven't bought ... yet`).
+  - Present Continuous: обязательность вспомогательного глагола `to be` (`we are playing`).
+  - Артикли в IT и поездках: предпочтение определенного артикля `the` для конкретных рабочих методов и билетов (`the method`, `the tickets`).

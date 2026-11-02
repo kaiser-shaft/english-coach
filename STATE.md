@@ -16,16 +16,15 @@
 
 - Модуль: 1
 - Неделя: 1
-- Занятие №: 4
+- Занятие №: 5
 - Гейт: не пройден
 
 # ПОВТОРЯЮЩИЕСЯ ОШИБКИ
 
-- Герундий после finish без частицы `to` (`finished writing`, не `to writing`).
-- Предлог прибытия: `arrive at the [place]` (не `arrive to`).
-- Описание сбоев: `the database went down` / `queries failed` (`down` требует глагола `went down` или `was down`).
-- Артикли перед отделами и объектами (`the finance department`, `the hotel`).
-- *(Успешно отработано: `didn't + V1`, `I am trying to [V]`, `a room / my reservation`).*
+- Пропуск глагола-связки `to be` в Continuous (`we are playing`, не `we playing`).
+- Маркер `yet` на конце отрицания в Present Perfect (`haven't bought tickets yet`).
+- Артикль `the` перед конкретными объектами обсуждения (`the method`, `the service`, `the tickets`).
+- *(Успешно отработано: `finish + V-ing`, `arrive at`, `was down / went down`, `didn't + V1`, `I am trying to [V]`).*
 
 # ОСВОЕННЫЕ ФРЕЙМЫ
 
