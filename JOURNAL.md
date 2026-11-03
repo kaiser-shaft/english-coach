@@ -80,3 +80,19 @@
   - Парная конструкция Present Perfect: сохранение маркера `yet` на конце отрицания (`haven't bought ... yet`).
   - Present Continuous: обязательность вспомогательного глагола `to be` (`we are playing`).
   - Артикли в IT и поездках: предпочтение определенного артикля `the` для конкретных рабочих методов и билетов (`the method`, `the tickets`).
+
+
+## Занятие №6 (2026-11-03)
+
+- **Модуль / Неделя:** Модуль 1, Неделя 1 (завершение недели)
+- **Тема:** Финальное закрепление Past Simple vs Present Perfect, блокеры задач и самокоррекция в Past Sequences
+- **Отработанные фреймы:**
+  - `Warm-up`: *Now we are testing the service.* / *I haven't checked the logs yet.* / *Have you had a chance to check my reservation yet?*
+  - `Template 04 (IT)`: *I haven't been able to push the code because my computer lost internet connection.*
+  - `Template 05 (IT)`: *We noticed that the application icon disappeared when we unlocked the phone.*
+  - `Template 06 (IT)`: *Have you ever encountered this application crash before?*
+  - `Template 02 (Travel)`: *I arrived at the train station 20 minutes ago, so now I'm drinking coffee.*
+- **Разбор и фокусные точки:**
+  - `Past Participle (V3)`: после `haven't` всегда используется 3-я форма глагола (`haven't checked`).
+  - Определенный артикль `the`: перед конкретными зданиями/локациями (`at the train station`).
+  - Прогресс и успехи: мгновенная самостоятельная корректировка согласования времен (`unlocked` согласовано с `disappeared`), полное закрепление `arrived at` и глагола `to be` в Present Continuous (`I'm drinking`, `we are testing`), безошибочное построение фреймов 04 и 06 с первой попытки.

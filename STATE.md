@@ -15,16 +15,15 @@
 # ТЕКУЩАЯ ПОЗИЦИЯ
 
 - Модуль: 1
-- Неделя: 1
-- Занятие №: 5
-- Гейт: не пройден
+- Неделя: 1 (завершена, подготовка к Неделе 2)
+- Занятие №: 6
+- Гейт: не пройден (запланирован на Неделю 4)
 
 # ПОВТОРЯЮЩИЕСЯ ОШИБКИ
 
-- Пропуск глагола-связки `to be` в Continuous (`we are playing`, не `we playing`).
-- Маркер `yet` на конце отрицания в Present Perfect (`haven't bought tickets yet`).
-- Артикль `the` перед конкретными объектами обсуждения (`the method`, `the service`, `the tickets`).
-- *(Успешно отработано: `finish + V-ing`, `arrive at`, `was down / went down`, `didn't + V1`, `I am trying to [V]`).*
+- Форма V3 (Past Participle) после have/haven't (`haven't checked`, не `haven't check`).
+- Артикль `the` перед конкретными местами и объектами (`the train station`, `the airport`, `the method`).
+- *(Успешно отработано: связка `to be` в Continuous (`we are testing`, `I'm drinking`), маркер `yet` в конце отрицания, `finish + V-ing`, `arrive at`, согласование времен в цепочках Past Simple, `didn't + V1`).*
 
 # ОСВОЕННЫЕ ФРЕЙМЫ
 
