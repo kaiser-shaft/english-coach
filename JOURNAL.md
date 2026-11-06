@@ -96,3 +96,22 @@
   - `Past Participle (V3)`: после `haven't` всегда используется 3-я форма глагола (`haven't checked`).
   - Определенный артикль `the`: перед конкретными зданиями/локациями (`at the train station`).
   - Прогресс и успехи: мгновенная самостоятельная корректировка согласования времен (`unlocked` согласовано с `disappeared`), полное закрепление `arrived at` и глагола `to be` в Present Continuous (`I'm drinking`, `we are testing`), безошибочное построение фреймов 04 и 06 с первой попытки.
+
+
+## Занятие №7 (2026-11-06)
+
+- **Модуль / Неделя:** Модуль 1, Неделя 2
+- **Тема:** Длительность процессов и текущие состояния (Present Perfect Continuous, Since vs For, State Verbs)
+- **Отработанные фреймы:**
+  - `Warm-up`: *I haven't checked the bug report yet.* / *I arrived at the airport 15 minutes ago.* / *We haven't updated the server yet.*
+  - `Template 13 (IT)`: *The service has been failing since 10 AM.*
+  - `Template 14 (IT)`: *The new service has been working smoothly for 3 days.*
+  - `Travel-практика`: *I have been waiting for 40 minutes.*
+  - `Template 15 (IT)`: *I have been trying to build the project for an hour, but it keeps failing.*
+  - `State Verbs (IT)`: *The server has been down for 30 minutes.*
+- **Разбор и фокусные точки:**
+  - `Since` vs `For`: моментальное понимание разницы между точкой отсчета (`since 10 AM`) и длительностью (`for 30 minutes / for an hour / for 3 days`).
+  - `Present Perfect Continuous`: чистая сборка `has/have been [V-ing]` с первого предъявления.
+  - Связка `keeps [V-ing]`: безупречное применение в сложноподчиненной конструкции Template 15.
+  - Глаголы состояния: точное понимание невозможности Continuous формы у `to be` (`has been down for 30 minutes`, а не `has been being down`).
+  - Фокус на будущее: автоматизация V3 (`checked`) и определителей (`the new service`, `at the airport`).

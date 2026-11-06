@@ -15,15 +15,15 @@
 # ТЕКУЩАЯ ПОЗИЦИЯ
 
 - Модуль: 1
-- Неделя: 1 (завершена, подготовка к Неделе 2)
-- Занятие №: 6
+- Неделя: 2 (Длительность и текущие состояния: Since / For / Present Perfect Continuous)
+- Занятие №: 7
 - Гейт: не пройден (запланирован на Неделю 4)
 
 # ПОВТОРЯЮЩИЕСЯ ОШИБКИ
 
 - Форма V3 (Past Participle) после have/haven't (`haven't checked`, не `haven't check`).
-- Артикль `the` перед конкретными местами и объектами (`the train station`, `the airport`, `the method`).
-- *(Успешно отработано: связка `to be` в Continuous (`we are testing`, `I'm drinking`), маркер `yet` в конце отрицания, `finish + V-ing`, `arrive at`, согласование времен в цепочках Past Simple, `didn't + V1`).*
+- Определители и артикль `the` перед конкретными существительными (`the airport`, `the new service`).
+- *(Успешно отработано: маркер `yet` в конце отрицания, связка `arrive at`, Present Perfect Continuous `has/have been [V-ing]`, маркеры `since` vs `for`, связка `keeps [V-ing]`, глаголы состояния `has been down for...`).*
 
 # ОСВОЕННЫЕ ФРЕЙМЫ
 
@@ -33,3 +33,6 @@
 - Template 04 (`I haven't been able to [Infinitive] because [Reason / Blocked by]`)
 - Template 05 (`We noticed that [Subject] [V2] when we [V2]`)
 - Template 06 (`Have you ever encountered [Noun / Error / Issue] before?`)
+- Template 13 (`[Subject] has been [V-ing] since [Point in time]`)
+- Template 14 (`The service has been running smoothly for [Duration]`)
+- Template 15 (`I have been trying to [Infinitive] for [Duration], but it keeps [V-ing]`)
